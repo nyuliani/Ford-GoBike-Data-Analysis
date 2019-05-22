@@ -3,17 +3,17 @@ This project has two parts that demonstrate the importance and value of data vis
 
 This project is part of Udacity Data Analysis Nanodegree
 
-# What do I need to install?
+## What do I need to install?
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
 - NumPy
 - pandas
 - Matplotlib
 - Seaborn
 
-# Why this project?
+## Why this project?
 Data visualization is an important skill that is used in many parts of the data analysis process. Exploratory data visualization generally occurs during and after the data wrangling process, and is the main method that will be used to understand the patterns and relationships present in the data. This understanding will help approach any statistical analyses and will help build conclusions and findings. This process might also illuminate additional data cleaning tasks to be performed. Explanatory data visualization techniques are used after generating your findings, and are used to help communicate your results to others. Understanding design considerations will make sure that the message is clear and effective. In addition to being a good producer of visualizations, going through this project will also help to be a good consumer of visualizations that are presented by others.
 
-# What did I learn?
+## What did I learn?
 After completing this project, I was able to:
 - Supplement statistics with visualizations to build understanding of data.
 - Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing me to understand distributions of variables and relationships between features.
